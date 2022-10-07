@@ -14,7 +14,7 @@
 
 * Vào CH Play Hoặc Appstore Tải Google Cloud Để Chạy Tool Nhé!
 
-* ```git clone https://github.com/VH006/LoveToolV3```
+* ```git clone https://github.com/ViDucHung2006/LoveToolV3```
 * ```cd LoveToolV3```
 * ```unzip ddos.zip```
 * ```Nhập Pass Vào, Pass Lấy Tại: http://traffic1s.com/Pass```
